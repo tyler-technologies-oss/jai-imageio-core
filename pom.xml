@@ -4,9 +4,9 @@
   <prerequisites>
     <maven>3.0.5</maven>
   </prerequisites>
-  <groupId>com.github.jai-imageio</groupId>
+  <groupId>com.tylertech.jai-imageio</groupId>
   <artifactId>jai-imageio-core</artifactId>
-  <version>1.4.1-tylertech-SNAPSHOT</version>
+  <version>1.4.0.1</version>
   <packaging>bundle</packaging>
   <name>Java Advanced Imaging Image I/O Tools API core (standalone)</name>
   <description>
@@ -15,10 +15,10 @@
     codecLibJIIO, meaning that this library can be distributed under the 
     modified BSD license and should be GPL compatible.
   </description>
-  <url>https://github.com/jai-imageio/jai-imageio-core</url>
+  <url>https://github.com/tyler-technologies-oss/jai-imageio-core</url>
   <organization>
-    <name>jai-imageio GitHub group</name>
-    <url>https://github.com/jai-imageio/</url>
+    <name>Tyler Technologies OSS</name>
+    <url>https://github.com/tyler-technologies-oss</url>
   </organization>
   <licenses>
     <license>
@@ -246,9 +246,9 @@
     </plugins>
   </reporting>
   <scm>
-    <connection>scm:git:git://github.com/jai-imageio/jai-imageio-core.git</connection>
-    <developerConnection>scm:git:git@github.com:jai-imageio/jai-imageio-core.git</developerConnection>
-    <url>https://github.com/jai-imageio/jai-imageio-core/</url>
+    <connection>scm:git:git://github.com/tyler-technologies-oss/jai-imageio-core.git</connection>
+    <developerConnection>scm:git:git@github.com:tyler-technologies-oss/jai-imageio-core.git</developerConnection>
+    <url>https://github.com/tyler-technologies-oss/jai-imageio-core/</url>
     <tag>HEAD</tag>
   </scm>
 
