@@ -6,7 +6,7 @@
   </prerequisites>
   <groupId>com.tylertech.jai-imageio</groupId>
   <artifactId>jai-imageio-core</artifactId>
-  <version>1.4.0.1</version>
+  <version>1.4.0.2</version>
   <packaging>bundle</packaging>
   <name>Java Advanced Imaging Image I/O Tools API core (standalone)</name>
   <description>
